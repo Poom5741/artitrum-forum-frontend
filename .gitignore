@@ -38,7 +38,7 @@ cache/
 .idea/
 
 # Ignore lock files
-yarn.lock
+
 package-lock.json
 
 # Ignore other project-specific files
